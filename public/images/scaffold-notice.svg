@@ -1,0 +1,11 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" rx="16" fill="#1E293B"/>
+  <rect x="20" y="20" width="360" height="260" rx="12" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  <circle cx="200" cy="110" r="40" fill="#EF4444" fill-opacity="0.15"/>
+  <path d="M200 85L225 130H175L200 85Z" stroke="#EF4444" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 105V115M200 122H200.01" stroke="#EF4444" stroke-width="3" stroke-linecap="round"/>
+  <text x="200" y="180" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">Hazard Photo Attachment</text>
+  <text x="200" y="205" text-anchor="middle" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">Level 3 Scaffolding Clamp Verification</text>
+  <rect x="140" y="225" width="120" height="24" rx="12" fill="#1E2A4A"/>
+  <text x="200" y="241" text-anchor="middle" fill="#14B8A6" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">FS-SAF-2026-104</text>
+</svg>
